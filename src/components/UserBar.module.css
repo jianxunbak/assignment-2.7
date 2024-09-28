@@ -1,0 +1,17 @@
+.userBarContainer {
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background: #eee;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+  }
+  
+  .userBarForm {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+  }
