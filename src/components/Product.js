@@ -142,6 +142,7 @@ function Product() {
           sum={sumTotal}
           handlerDeleteItem={handlerDeleteItem}
           handleFindEditItem={handleFindEditItem}
+          isEditing={isEditing}
         />
       )}
       {!isLisVisible && "Click 'Show Cart' to display the cart."}
